@@ -1,2 +1,2 @@
 # visualizations
-Samples of visualizations dome with Matplotlib and Seaborn
+Samples of visualizations done with Matplotlib and Seaborn
